@@ -48,7 +48,7 @@ The project demonstrates:
 <br />
 
 <p align = "center">
-<img src="images/cartpole_mrac_system.png" style="width: 45%; height: 45%;">
+<img src="images/cart_pole.png">
 </p>
 
 ### Objectives
